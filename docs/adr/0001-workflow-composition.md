@@ -1,6 +1,6 @@
 # ADR 0001: workflow composition
 
-Status: proposed. Date: 2026-10-25.
+Status: accepted with the initial architecture approval. Date: 2026-10-25.
 
 
 Context: The portfolio needs SDD without losing the existing ability to resume work and verify delivery.

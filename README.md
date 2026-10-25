@@ -2,7 +2,7 @@
 
 Engineering workflow and architecture records for two independently deployable portfolio applications.
 
-**Status:** foundation drafts prepared on October 25, 2026. Constitution and MVP approval pending. No application is deployed yet.
+**Status:** constitution v1 and both MVP scopes approved on October 25, 2026. TenantFlow first-slice implementation is in review. No application is deployed yet.
 
 | Repository | Focus | Stack requested |
 | --- | --- | --- |
