@@ -1,6 +1,6 @@
 # ADR 0002: independent repositories
 
-Status: proposed. Date: 2026-10-25.
+Status: accepted with the initial architecture approval. Date: 2026-10-25.
 
 
 Context: The deadline should not couple the two application releases.
